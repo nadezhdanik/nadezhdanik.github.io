@@ -22,4 +22,6 @@
 I've recently moved to Lithuania from Belarus with my family. After a long pregnancy leave, now that my kids went to school and kindergarten 			here, I wish to explore a new profession. My goal now is to study and gain skills necessary to land a job in IT. I joined JavaScript Mentoring 			course to learn the requirments for becoming a Junior Developer.
 I believe that I have potential and ability to become a great developer. I like to study new things, I'm thorough and methodical in my work, I 			have great communication skills and **love** both people and computers.
 
+**Hobbies**: disc-golf, orienteering
+
 
